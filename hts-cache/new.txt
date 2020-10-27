@@ -1,4 +1,0 @@
-date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
-17:11:18	719/719	---M--	200	added ('OK')	text/plain	date:Mon,%2014%20Nov%202016%2012:36:45%20GMT	http://crsorgi.gov.in/robots.txt		(from )
-17:11:18	71146/71146	---MC-	200	added ('OK')	text/html	date:Fri,%2023%20Oct%202020%2012:03:16%20GMT	http://crsorgi.gov.in/web/index.php/auth/birthCertificate/view/cert/B/TTRtNklscHRIMG1LcDBnMmczaW9xZz09%3D%3D	D:/14/asdddasdasd/crsorgi.gov.in/web/index.php/auth/birthCertificate/view/cert/B/TTRtNklscHRIMG1LcDBnMmczaW9xZz09==.html	(from )
-17:11:20	46489/46489	---MC-	200	added ('OK')	text/javascript	date:Wed,%2009%20Sep%202020%2001:50:37%20GMT	http://www.google-analytics.com/analytics.js	D:/14/asdddasdasd/www.google-analytics.com/analytics.js	(from http://crsorgi.gov.in/web/index.php/auth/birthCertificate/view/cert/B/TTRtNklscHRIMG1LcDBnMmczaW9xZz09%3D%3D)
